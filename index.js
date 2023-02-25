@@ -1,3 +1,7 @@
+// ------------------------------------
+// INDEX ANTIGA DO BOT | Discord.JS V12
+// ------------------------------------
+
 const express = require('express');
 const app = express();
 app.get("/", (request, response) => {
