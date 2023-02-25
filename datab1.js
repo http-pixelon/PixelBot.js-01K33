@@ -1,1 +1,0 @@
-Para de stalkear porra!
