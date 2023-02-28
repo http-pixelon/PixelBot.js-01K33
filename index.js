@@ -18,4 +18,3 @@ const config = require("./config.json"); //Pegando o prefixo do bot para respost
 
 client.login(process.env.TOKEN); //Ligando o Bot caso ele consiga acessar o token
 
-30000, 30000,
